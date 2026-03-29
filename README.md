@@ -61,8 +61,8 @@ python main.py
 
 ### 🔄 Previous Version
 
-🔗 Original project developed in Portugol:
-[(Add your repository link here)](https://github.com/LTowww/ZoneVerifier-Portugol)
+[🔗 Original project developed in Portugol](https://github.com/LTowww/ZoneVerifier-Portugol)
+
 
 ---
 
@@ -130,8 +130,8 @@ python main.py
 
 ### 🔄 Versão Anterior
 
-🔗 Projeto original em Portugol:
-[(Coloque aqui o link do seu outro repositório)](https://github.com/LTowww/ZoneVerifier-Portugol)
+[🔗 Projeto original em Portugol](https://github.com/LTowww/ZoneVerifier-Portugol)
+
 
 ---
 
